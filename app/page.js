@@ -8,6 +8,9 @@ export default function Home() {
         <p>
           Get started by editing&nbsp;
           <code className={styles.code}>app/page.js</code>
+        <input type="file" name="file">
+		<input type="submit" name="upload" value="Upload">
+    </form>
         </p>
         <div>
           <a
