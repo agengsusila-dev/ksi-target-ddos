@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
+          HALLLLLLLO
           <code className={styles.code}>app/page.js</code>
         <input type="file" name="file">
 		<input type="submit" name="upload" value="Upload">
